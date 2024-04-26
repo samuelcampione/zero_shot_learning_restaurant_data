@@ -18,7 +18,7 @@ See how it works in this notebook: [zero_shot_classification.ipynb](https://gith
 
 # What even is Zero-Shot Image Classification?
 
-![](https://github.com/samuelcampione/zero_shot_learning_restaurant_data/blob/main/Screenshot%202024-04-25%20at%206.00.02%E2%80%AFPM.png "Screenshot")
+![](https://github.com/samuelcampione/zero_shot_learning_restaurant_data/blob/main/zero_shot_diagram.png "Screenshot")
 
 
 # Data 
