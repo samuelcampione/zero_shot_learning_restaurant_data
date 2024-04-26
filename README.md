@@ -18,7 +18,11 @@ See how it works in this notebook: [zero_shot_classification.ipynb](https://gith
 
 # What even is Zero-Shot Image Classification?
 
+Zero-shot image classification with CLIP involves the model understanding and classifying images it hasn't been explicitly trained on by comparing the image's features to text descriptions. CLIP,  Contrastive Language-Image Pretraining, encodes both the image and a range of potential textual labels into a common embedding space. It then predicts the most relevant labels for the image based on the proximity of the image and text embeddings, thus enabling the model to classify images without having been trained on those specific labels or classes.
+
+
 ![](https://github.com/samuelcampione/zero_shot_learning_restaurant_data/blob/main/zero_shot_diagram.png "Screenshot")
+
 
 
 # Data 
