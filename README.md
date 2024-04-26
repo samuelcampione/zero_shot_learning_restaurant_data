@@ -28,3 +28,7 @@ Zero-shot image classification with CLIP involves the model understanding and cl
 # Data 
 
 We used data from the [Yelp Open Dataset](https://www.yelp.com/dataset) including structured business data, unstructured textual business review data, and unstructured business image data. 
+
+# Tools Used
+- OpenAI's CLIP model: Zero-shot image classification
+- PySpark: Database creation, storage, and SQL querying
