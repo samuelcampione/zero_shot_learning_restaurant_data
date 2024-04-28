@@ -24,11 +24,12 @@ Zero-shot image classification with CLIP involves the model understanding and cl
 ![](https://github.com/samuelcampione/zero_shot_learning_restaurant_data/blob/main/zero_shot_diagram.png "Screenshot")
 
 
-
-# Data 
-
-We used data from the [Yelp Open Dataset](https://www.yelp.com/dataset) including structured business data, unstructured textual business review data, and unstructured business image data. 
+# Data
+We leverage the [Yelp Open Dataset](https://www.yelp.com/dataset), which includes:
+- Structured business data
+- Unstructured textual business reviews
+- Unstructured business image data
 
 # Tools Used
-- OpenAI's CLIP model: Zero-shot image classification
-- PySpark: Database creation, storage, and SQL querying
+- OpenAI's CLIP model: For zero-shot image classification.
+- PySpark: For robust database creation, data storage, and SQL querying.
