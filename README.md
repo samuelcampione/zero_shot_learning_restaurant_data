@@ -1,6 +1,6 @@
 # Pan: *What's your vibe?*
 
-We bring to you a Vibe-based, Ambience-based restaurant recommender. Sick of sponsored ads, we decided to tackle the problem by taking advantage of computer vision and natural language proessing to extract the specific Vibe of a restaurant. Leveraging zero-shot learning with [OpenAI's CLIP model](https://openai.com/research/clip), we processed around 20,000 images (1 GB).
+We bring to you a Vibe-based, Ambience-based restaurant recommender. Tired of navigating through biased ads and generic recommendations? We tackle this issue by harnessing the power of computer vision and natural language processing to pinpoint the unique vibe of each restaurant. Utilizing [OpenAI's CLIP model](https://openai.com/research/clip), we've processed 20,000 images (1GB) to deliver authentic, user-centered dining suggestions.
 
 # So, what are our Vibes?
 Informed by customer interviews, we created specific Vibe categories to meet the consumer's needs for the perfect dining experience.
