@@ -14,7 +14,7 @@ Informed by customer interviews, we created specific Vibe categories to meet the
 - **Special Occassion**: The Nines! Fancy, luxe and delicious
 - **Rooftop**: Trendy rooftop scenery and craft drinks
 
-See how it works in this notebook: [zero_shot_classification.ipynb](https://github.com/samuelcampione/zero_shot_learning_restaurant_data/blob/main/zero_shot_classification.ipynb)!
+See how it works: [zero_shot_image_classification.py](https://github.com/samuelcampione/zero_shot_learning_restaurant_data/blob/main/zero_shot_image_classification.py).
 
 # What even is Zero-Shot Image Classification?
 
