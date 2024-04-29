@@ -3,7 +3,7 @@
 We bring to you a Vibe-based, Ambience-based restaurant recommender. Tired of navigating through biased ads and generic recommendations? We tackle this issue by harnessing the power of computer vision and natural language processing to pinpoint the unique vibe of each restaurant. Utilizing [OpenAI's CLIP model](https://openai.com/research/clip) and [Facebook's BART-large-MNLI model](https://huggingface.co/facebook/bart-large-mnli), we've processed 20,000 images and 500,000 reviews to deliver authentic, user-centered dining suggestions.
 
 
-Explore our methodology and see how it works in our: 
+Explore our methodology and see how it works in: 
 - [Zero-Shot Image Classification](https://github.com/samuelcampione/zero_shot_learning_restaurant_data/blob/main/zero_shot_image_classification.py)
 - [Zero-Shot Review Classification](https://github.com/samuelcampione/zero_shot_learning_restaurant_data/blob/main/zero_shot_review_classification.py)
 - [PySpark Database Filtering](https://github.com/samuelcampione/zero_shot_learning_restaurant_data/blob/main/get_restaurant_results.ipynb)
