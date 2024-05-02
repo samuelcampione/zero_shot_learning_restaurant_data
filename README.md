@@ -4,10 +4,11 @@ We bring to you a Vibe-based, Ambience-based restaurant recommender. Tired of na
 
 
 Explore our methodology and see how it works in: 
-- [Zero-Shot Image Classification](https://github.com/samuelcampione/zero_shot_learning_restaurant_data/blob/main/zero_shot_image_classification.py)
-- [Zero-Shot Review Classification](https://github.com/samuelcampione/zero_shot_learning_restaurant_data/blob/main/zero_shot_review_classification.py)
-- [PySpark Database Filtering](https://github.com/samuelcampione/zero_shot_learning_restaurant_data/blob/main/get_restaurant_results.ipynb)
-- [requirements.txt](https://github.com/samuelcampione/zero_shot_learning_restaurant_data/blob/main/requirements.txt)
+- [Zero-Shot Image Classification](https://github.com/samuelcampione/zero_shot_learning_restaurant_data/blob/main/zero_shot_image_classification.py): image classification within a specified business directory, using the CLIP pre-trained model from the transformers library
+- [Zero-Shot Review Classification](https://github.com/samuelcampione/zero_shot_learning_restaurant_data/blob/main/zero_shot_review_classification.py): review text classification within a specified business directory, using the BART pre-trained model from the transformers library
+
+- [PySpark Database Filtering](https://github.com/samuelcampione/zero_shot_learning_restaurant_data/blob/main/get_restaurant_results.ipynb): creation and querying of databases from Yelp's Open Dataset
+- [requirements.txt](https://github.com/samuelcampione/zero_shot_learning_restaurant_data/blob/main/requirements.txt): necessary packages
 
 # So, what are our Vibes?
 Informed by customer interviews, we created specific Vibe categories to meet the consumer's needs for the perfect dining experience.
