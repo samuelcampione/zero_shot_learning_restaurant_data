@@ -1,4 +1,4 @@
-# Pan: *What's your vibe?*
+# *Zero-Shot Classification App*
 
 We bring to you a Vibe-based, Ambience-based restaurant recommender. Tired of navigating through biased ads and generic recommendations? We tackle this issue by harnessing the power of computer vision and natural language processing to pinpoint the unique vibe of each restaurant. Utilizing [OpenAI's CLIP model](https://openai.com/research/clip) and [Facebook's BART-large-MNLI model](https://huggingface.co/facebook/bart-large-mnli), we've processed 20,000 images and 500,000 reviews to deliver authentic, user-centered dining suggestions.
 
